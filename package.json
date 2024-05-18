@@ -11,6 +11,8 @@
     "tslib": "^2.3.0"
   },
   "devDependencies": {
+    "@aws-amplify/backend": "^1.0.2",
+    "@aws-amplify/backend-cli": "^1.0.3",
     "@nx/devkit": "19.0.4",
     "@nx/eslint": "19.0.4",
     "@nx/eslint-plugin": "19.0.4",
@@ -30,6 +32,7 @@
     "@typescript-eslint/eslint-plugin": "^7.3.0",
     "@typescript-eslint/parser": "^7.3.0",
     "autoprefixer": "10.4.13",
+    "aws-amplify": "^6.3.2",
     "babel-jest": "^29.4.1",
     "eslint": "~8.57.0",
     "eslint-config-next": "14.0.4",
