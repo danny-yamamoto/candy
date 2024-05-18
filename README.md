@@ -60,3 +60,16 @@ It will show tasks that you can run with Nx.
 - [Join the community](https://nx.dev/community)
 - [Subscribe to the Nx Youtube Channel](https://www.youtube.com/@nxdevtools)
 - [Follow us on Twitter](https://twitter.com/nxdevtools)
+
+## Running target start
+
+```bash
+npx nx build front-a
+npx nx start front-a
+```
+
+## Running format
+
+```bash
+npx nx format:write
+```
