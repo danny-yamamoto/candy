@@ -1,0 +1,9 @@
+{
+  "name": "front-a-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/front-a-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["front-a"],
+  "// targets": "to see all targets run: nx show project front-a-e2e --web",
+  "targets": {}
+}
