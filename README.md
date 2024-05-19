@@ -73,3 +73,11 @@ npx nx start front-a
 ```bash
 npx nx format:write
 ```
+
+```bash
+npx nx add aws-amplify
+npx nx add @aws-amplify/backend-cli aws-amplify @aws-amplify/ui-react
+npx nx add @aws-amplify/backend
+npx nx add @aws-amplify/ui-react
+npx nx add aws-cdk-lib
+```
