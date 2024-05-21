@@ -86,4 +86,5 @@ npx nx add aws-cdk-lib
 npx nx add @nx/nest
 # nx g @nx/nest:app my-nest-app --frontendProject my-angular-app
 npx nx g @nx/nest:app backend --frontendProject front-a --directory=libs/backend
+npx nx g @nx/nest:app backend --directory=libs/backend
 ```
